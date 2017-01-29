@@ -1,5 +1,5 @@
 # Yalu 10.2 Compiled
-Compiled Yalu 10.2 by qwertyoruiop (kpwn). That is **all** qwertyoruiop and marcograss Work. The only Thing i did, is forked the Project and compiled it for those, who don't know how or don't have a Mac. All Rights belongs to the owner of the Project.
+Compiled Yalu 10.2 by qwertyoruiop (kpwn). That is **all** qwertyoruiop and marcograss Work. For those, who don't know how to compile or don't have a Mac. All Rights belongs to the owner of the Project.
 
 ## Changes
 
